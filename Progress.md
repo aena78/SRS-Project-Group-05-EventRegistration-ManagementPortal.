@@ -6,3 +6,6 @@
 
 [UCD and DFD Diagram.pdf](https://github.com/user-attachments/files/23343666/UCD.and.DFD.Diagram.pdf)
 //diagrams MADE BY R038
+
+[NEW SRS DOCUMENT](https://github.com/aena78/SRS-Project-Group-05-EventRegistration-ManagementPortal./blob/main/NEW%20SRS.pdf)
+//NEW SRS DOC MADE BY R012(version-2  30-11-2025)
